@@ -10,5 +10,10 @@ public class reverse {
             rev = str.charAt(i) + rev;
         }
         System.out.println(rev);
+    
+    for(int i=0;i<str.length();i++){
+        rev = str.charAt(i) + rev;
     }
 }
+}
+        
